@@ -1,0 +1,26 @@
+/*
+Theme name: Archana's cool theme
+Description: Child theme based on twenty sixteen
+Author: Analtical Engine Interactive Inc.
+Version: 1.0
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+	background-color: pink;
+}
+
+
+.entry-title {
+
+	font-family: 'Lobster', cursive;
+
+}
+
+#masthead {
+
+	background-color: pink;
+}
